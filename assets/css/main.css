@@ -3827,6 +3827,10 @@ input, select, textarea {
 				width: 100%;
 			}
 			
+			.line-under {				
+				border-top: 1.5px solid black;
+				border-bottom: 1.5px solid black;
+			}
 			/*****************LINES UNDER THE NAV SIDEBAR when selected****************/
 
 			#sidebar nav a:before {
